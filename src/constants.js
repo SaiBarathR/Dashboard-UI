@@ -68,3 +68,63 @@ export const cardData = [
 
     },
 ]
+
+export const customBarGraphData = [
+    {
+        name: 'Jan',
+        earnings: 700
+
+    },
+    {
+        name: 'Feb',
+        earnings: 500
+
+    },
+    {
+        name: 'Mar',
+        earnings: 1000
+
+    },
+    {
+        name: 'Apr',
+        earnings: 800
+
+    },
+    {
+        name: 'May',
+        earnings: 850
+
+    },
+    {
+        name: 'Jun',
+        earnings: 200
+
+    },
+    {
+        name: 'Jul',
+        earnings: 850
+
+    },
+    {
+        name: 'Aug',
+        earnings: 1000
+
+    }, {
+        name: 'Sep',
+        earnings: 980
+
+    }, {
+        name: 'Oct',
+        earnings: 800
+
+    }, {
+        name: 'Nov',
+        earnings: 750
+
+    }, {
+        name: 'Dec',
+        earnings: 820
+
+    },
+];
+

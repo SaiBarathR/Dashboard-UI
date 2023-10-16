@@ -32,7 +32,21 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+/* Bar Graph */
+
+.custom-bar-graph-container {
+  margin: 30px 10px 10px 0px;
+  background: #FFF;
+  border-radius: 8px;
+  padding: 50px 40px 50px 40px;
+}
+
+.drop-shadow-light {
+  filter: drop-shadow(0px 10px 60px rgba(226, 236, 249, 0.50));
 }

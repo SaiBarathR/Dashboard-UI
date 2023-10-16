@@ -19,7 +19,7 @@ export default function Cards() {
 
 const CardItem = ({ item, isLargerThan1400 }) => {
 
-    return <GridItem className='px-4 py-6 md:px-2 md:py-6 lg:px-6 lg:py-8 lg:max-w-none justify-center gap-3 flex items-center bg-white rounded-lg'>
+    return <GridItem className='px-4 py-6 md:px-2 md:py-6 lg:px-6 lg:py-8 lg:max-w-none justify-center gap-3 flex items-center bg-white rounded-lg drop-shadow-light'>
         <Box display={'flex'} alignItems={'center'} justifyContent={'center'} width={{
             lg: isLargerThan1400 ? '120px' : '100px',
             sm: '120px'
