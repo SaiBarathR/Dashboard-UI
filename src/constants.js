@@ -128,3 +128,35 @@ export const customBarGraphData = [
     },
 ];
 
+export const rowsObject = [
+    {
+        timeStamp: "35 minutes ago",
+        purchaseId: 25601,
+        mail: "saibarathdep@outlook.com",
+        name: "Sai Barath",
+        source: "",
+        status: "failed",
+        select: "Select"
+    },
+    {
+        timeStamp: "30 minutes ago",
+        purchaseId: 25602,
+        mail: "barath191@gmail.com",
+        name: "Barath Reddy",
+        source: "",
+        status: "failed",
+        select: "Select"
+    },
+    {
+        timeStamp: "20 minutes ago",
+        purchaseId: 25603,
+        mail: "hari.r@gmail.com",
+        name: "Hari",
+        source: "",
+        status: "paid",
+        select: "Select"
+    },
+    
+]
+
+
