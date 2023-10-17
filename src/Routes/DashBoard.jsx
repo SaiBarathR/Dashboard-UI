@@ -8,10 +8,10 @@ import DashboardHeader from '../Components/DashboardHeader'
 
 export default function DashBoard() {
     return (
-        <Box className='w-full h-screen flex-col px-12 py-12 bg-[#F2EFFF]'>
-            <DashboardHeader/>
+        <Box className='w-full h-screen overflow-auto flex-col px-12 py-12 bg-[#F2EFFF]'>
+            <DashboardHeader />
             <Cards />
-            <Box className='flex'>
+            <Box className='flex flex-col lg:flex-row gap-10'>
                 <CustomBarGraph />
                 <CustomPieChart />
             </Box>

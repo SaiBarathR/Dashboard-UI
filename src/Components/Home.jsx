@@ -6,7 +6,7 @@ import { router } from "../RouterConfig/router";
 export default function Home() {
 
     return (
-        <Box className="w-full h-screen flex">
+        <Box className="w-full h-[screen] bg-white flex">
             <SideNav />
             <RouterProvider router={router} />
         </Box>
