@@ -6,7 +6,7 @@ import { ChevronDownIcon } from '@chakra-ui/icons';
 export default function CustomBarGraph() {
 
   return (
-    <Box className='w-[100%] md:w-[100%] lg:w-[65%] h-[40vh]  custom-bar-graph-container flex flex-col'>
+    <Box className='w-[98%]  lg:w-[50%] xl:w-[65%] h-[40vh]  custom-bar-graph-container flex flex-col'>
       <Box className='w-full flex'>
         <Box className='flex flex-col flex-grow'>
           <Text fontSize={'22px'} fontWeight={600} color={'#000'}>
