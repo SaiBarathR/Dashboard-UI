@@ -36,7 +36,7 @@ const SideNavItems = () => {
                 className={`p-2 min-h-[46px] flex gap-2 cursor-pointer rounded-md min-w-[200px] items-center ${selected === navItem.name ? 'bg-[#9197B3]' : ''}`}
                 onClick={handleClickSideNavItem(navItem.name)}>
                 {navItem.icon}
-                <Text className='text-base flex-grow'>{navItem.name}</Text>
+                <Text className='text-base text-white flex-grow'>{navItem.name}</Text>
                 <ArrowIcon />
             </Box>
         )}
