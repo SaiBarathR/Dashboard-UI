@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Dashboard-UI/static/css/main.4921e843.css",
+    "main.js": "/Dashboard-UI/static/js/main.52100f1d.js",
+    "static/js/787.545aecf5.chunk.js": "/Dashboard-UI/static/js/787.545aecf5.chunk.js",
+    "static/media/profile.svg": "/Dashboard-UI/static/media/profile.b119f91b400625b15b391ea4e62583e0.svg",
+    "static/media/balance.svg": "/Dashboard-UI/static/media/balance.634cd799a2df750cdaa3dc612b3afeb8.svg",
+    "static/media/promote.svg": "/Dashboard-UI/static/media/promote.3c15c0abc23de7741f2fd1aa406f8831.svg",
+    "static/media/dollar.svg": "/Dashboard-UI/static/media/dollar.0812239f6f67a9255f7f98556eeb9893.svg",
+    "static/media/income.svg": "/Dashboard-UI/static/media/income.e681b5be4e3f89866cc61c5682207f26.svg",
+    "static/media/product.svg": "/Dashboard-UI/static/media/product.276c93d0b4e60dcc24107ecce26ab8d9.svg",
+    "static/media/bag.svg": "/Dashboard-UI/static/media/bag.e246ef7e0bc6341446447cc6caa55d19.svg",
+    "static/media/help.svg": "/Dashboard-UI/static/media/help.52fbb26d1c7bb19e32df964526858dea.svg",
+    "static/media/customer.svg": "/Dashboard-UI/static/media/customer.b431f5dc9b1b656b5747ecb91e514503.svg",
+    "static/media/dashboard.svg": "/Dashboard-UI/static/media/dashboard.77d3d53356ac3a0de365dfe474d642ef.svg",
+    "static/media/dashboardkey.svg": "/Dashboard-UI/static/media/dashboardkey.8b27abd19e6c1f5314b617933bbf9789.svg",
+    "index.html": "/Dashboard-UI/index.html",
+    "static/media/arrow.svg": "/Dashboard-UI/static/media/arrow.6f81f4f6a0c5c86558a054dbb96871a1.svg",
+    "main.4921e843.css.map": "/Dashboard-UI/static/css/main.4921e843.css.map",
+    "main.52100f1d.js.map": "/Dashboard-UI/static/js/main.52100f1d.js.map",
+    "787.545aecf5.chunk.js.map": "/Dashboard-UI/static/js/787.545aecf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4921e843.css",
+    "static/js/main.52100f1d.js"
+  ]
+}
