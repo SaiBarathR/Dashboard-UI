@@ -3,7 +3,7 @@ import DashBoard from "../Routes/DashBoard";
 
 export const router = createBrowserRouter([
     {
-        path: "/",
+        path: "/*",
         element: <DashBoard />,
     },
 ]);
