@@ -2,7 +2,7 @@ import { Box } from '@chakra-ui/react'
 import React from 'react'
 import Cards from '../Components/Cards'
 import CustomBarGraph from '../Components/CustomBarGraph'
-import CustomPieChart from '../Components/CustomPieChart'
+// import CustomPieChart from '../Components/CustomPieChart'
 import CustomTable from '../Components/CustomTable'
 import DashboardHeader from '../Components/DashboardHeader'
 
@@ -13,7 +13,7 @@ export default function DashBoard() {
             <Cards />
             <Box className='flex flex-col lg:flex-row gap-10'>
                 <CustomBarGraph />
-                <CustomPieChart />
+                {/* <CustomPieChart /> */}
             </Box>
             <CustomTable />
         </Box>
