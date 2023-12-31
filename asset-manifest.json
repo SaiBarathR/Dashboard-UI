@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Dashboard-UI/static/css/main.4921e843.css",
-    "main.js": "/Dashboard-UI/static/js/main.a30fb90e.js",
+    "main.css": "/Dashboard-UI/static/css/main.c6063be5.css",
+    "main.js": "/Dashboard-UI/static/js/main.dbbc5ab6.js",
     "static/js/787.545aecf5.chunk.js": "/Dashboard-UI/static/js/787.545aecf5.chunk.js",
     "static/media/profile.svg": "/Dashboard-UI/static/media/profile.b119f91b400625b15b391ea4e62583e0.svg",
     "static/media/balance.svg": "/Dashboard-UI/static/media/balance.634cd799a2df750cdaa3dc612b3afeb8.svg",
@@ -16,12 +16,12 @@
     "static/media/dashboardkey.svg": "/Dashboard-UI/static/media/dashboardkey.8b27abd19e6c1f5314b617933bbf9789.svg",
     "index.html": "/Dashboard-UI/index.html",
     "static/media/arrow.svg": "/Dashboard-UI/static/media/arrow.6f81f4f6a0c5c86558a054dbb96871a1.svg",
-    "main.4921e843.css.map": "/Dashboard-UI/static/css/main.4921e843.css.map",
-    "main.a30fb90e.js.map": "/Dashboard-UI/static/js/main.a30fb90e.js.map",
+    "main.c6063be5.css.map": "/Dashboard-UI/static/css/main.c6063be5.css.map",
+    "main.dbbc5ab6.js.map": "/Dashboard-UI/static/js/main.dbbc5ab6.js.map",
     "787.545aecf5.chunk.js.map": "/Dashboard-UI/static/js/787.545aecf5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4921e843.css",
-    "static/js/main.a30fb90e.js"
+    "static/css/main.c6063be5.css",
+    "static/js/main.dbbc5ab6.js"
   ]
 }
